@@ -13,6 +13,20 @@ O curso definitivo de Lógica de Programação. Do VisualG às principais lingua
 - Aplicar todos conhecimentos e resolver todos exercícios nas linguagens C, C++, Python, C# e Java
 
 ## Conteúdo do curso
+- Apresentação do curso
+- Introdução à programação
+- Estrutura sequencial
+- Estrutura condicional
+- Estruturas repetitivas
+- Vetores
+- Matrizes
+- Instalação das ferramentas para linguagens
+- Linguagem C
+- Linguagem C++
+- Linguagem Java
+- Linguagem C#
+- Linguagem Python
+- Seção Bônus
 
 
 ## Link do curso:
