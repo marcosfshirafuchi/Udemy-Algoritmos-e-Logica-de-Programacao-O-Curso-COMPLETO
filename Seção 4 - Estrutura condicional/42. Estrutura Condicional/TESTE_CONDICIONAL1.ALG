@@ -1,4 +1,4 @@
-Algoritmo "teste_condicional3"
+Algoritmo "teste_condicional1"
 // Disciplina  : O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 // Professor   : Nelio Alves
 // Descrição   : 42. Estrutura Condicional"
@@ -8,24 +8,19 @@ Algoritmo "teste_condicional3"
 Var
 
 
-  hora : inteiro
+  x : inteiro
 
 
 
 Inicio
 
-      escreva("Digite uma hora do dia: ")
-      leia(hora)
-      se hora < 12 entao
-         escreval("Bom dia")
-      fimse
-      
-      se (hora >= 12) e (hora < 18) entao
+      x <- 5
+
+      escreval("Bom dia")
+
+      se x > 0 então
 	      escreval("Boa tarde")
       fimse
-      
-      se hora >= 18 entao
-         escreval("Boa noite")
-      fimse
+      escreval("Boa noite")
   
 Fimalgoritmo
