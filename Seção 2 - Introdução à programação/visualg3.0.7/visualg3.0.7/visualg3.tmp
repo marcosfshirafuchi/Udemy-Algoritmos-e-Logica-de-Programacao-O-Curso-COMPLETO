@@ -1,32 +1,40 @@
-Algoritmo "troco_verificado"
+Algoritmo "glicose"
 // Disciplina  : O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 // Professor   : Nelio Alves
-// Descrição   : 49. Solução do problema troco_verificado
+// Descrição   : 50. Solução do problema glicose
 // Autor       : Marcos Ferreira Shirafuchi
-// Data atual  : 07/12/2024
+// Data atual  : 08/12/2024
 
 Var
 
 
-      precoUnitario, dinheiroRecebido, troco, falta : real
-      quantidadeComprada : inteiro
+      glicose : real
 
 
 
 
 Inicio
-      escreva("Preço unitário do produto: ")
-      leia(precoUnitario)
-      escreva("Quantidade comprada: ")
-      leia(quantidadeComprada)
-      escreva("Dinheiro recebido: ")
-      leia(dinheiroRecebido)
-      troco <- dinheiroRecebido - (quantidadeComprada * precoUnitario)
-      se troco >= 0 entao
-         escreval("TROCO = ", troco:8:2)
+//      escreva("Digite a medida da glicose: ")
+//      leia(quantidadeDeGlicose)
+//      se quantidadeDeGlicose <= 100.0 entao
+//         escreval("Classificacao: normal")
+//      senao
+//         se quantidadeDeGlicose <= 140.0 entao
+//              escreval("Classificacao: elevado ")
+//         senao
+//              escreval("Classificacao: diabetes")
+//         fimse
+//      fimse
+ escreva("Digite a medida da glicose: ")
+   leia(glicose)
+
+   se glicose <= 100.0 entao
+      escreval("Normal")
+   senao
+      se glicose <= 140.0 entao
+         escreval("Elevado")
       senao
-         falta <- troco * (-1)
-         escreval("DINHEIRO INSUFICIENTE. FALTAM ", falta:8:2, " REAIS" )
+         escreval("Diabetes")
       fimse
-      
+   fimse
 Fimalgoritmo
