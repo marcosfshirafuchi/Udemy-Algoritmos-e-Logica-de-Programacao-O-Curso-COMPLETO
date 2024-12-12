@@ -1,40 +1,31 @@
-Algoritmo "glicose"
+Algoritmo "temperatura"
 // Disciplina  : O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 // Professor   : Nelio Alves
-// Descrição   : 50. Solução do problema glicose
+// Descrição   : 52. Solução do problema problema
 // Autor       : Marcos Ferreira Shirafuchi
-// Data atual  : 08/12/2024
+// Data atual  : 12/12/2024
 
 Var
 
 
-      glicose : real
-
+      C, F : real
+      escala : caractere
 
 
 
 Inicio
-//      escreva("Digite a medida da glicose: ")
-//      leia(quantidadeDeGlicose)
-//      se quantidadeDeGlicose <= 100.0 entao
-//         escreval("Classificacao: normal")
-//      senao
-//         se quantidadeDeGlicose <= 140.0 entao
-//              escreval("Classificacao: elevado ")
-//         senao
-//              escreval("Classificacao: diabetes")
-//         fimse
-//      fimse
- escreva("Digite a medida da glicose: ")
-   leia(glicose)
-
-   se glicose <= 100.0 entao
-      escreval("Normal")
-   senao
-      se glicose <= 140.0 entao
-         escreval("Elevado")
+      escreva("Voce vai digitar a temperatura em qual escala (C/F)? ")
+      leia(escala)
+      se escala = "F" entao
+         escreva("Digite a temperatura em Fahrenheit: ")
+         leia(F)
+         C <- 5 / 9 * (F - 32)
+         escreval("Temperatura equivalente em Celsius: ", C:8:2)
       senao
-         escreval("Diabetes")
+         escreva("Digite a temperatura em Celsius: ")
+         leia(C)
+          F <- 9 * C / 5 + 32;
+         escreval("Temperatura equivalente em Fahrenheit: ",F:8:2)
+
       fimse
-   fimse
 Fimalgoritmo
