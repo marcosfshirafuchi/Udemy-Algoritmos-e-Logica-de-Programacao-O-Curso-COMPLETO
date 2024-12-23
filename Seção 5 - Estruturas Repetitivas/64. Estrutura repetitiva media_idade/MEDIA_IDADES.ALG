@@ -22,7 +22,6 @@ Inicio
       enquanto idade >= 0 faca
                soma <- soma + idade
                contPessoas <- contPessoas + 1
-               escreval("Digite as idades: ")
                leia(idade)
       fimenquanto
       media <- soma / contPessoas
