@@ -14,7 +14,7 @@ Inicio
       escreva("Quantos casos voce vai digitar? ")
       leia(X)
       para i de 1 ate X faca
-           escreva("Digite tres numeros: ")
+           escreval("Digite tres numeros: ")
            leia(nota2)
            leia(nota3)
            leia(nota5)
