@@ -21,7 +21,7 @@ Inicio
            se denominador = 0 entao
               escreval("DIVISAO IMPOSSIVEL")
            senao
-              divisao = numero / denominador
+              divisao <- numerador / denominador
               escreval("DIVISAO = ", divisao:5:2)
            fimse
       fimpara
