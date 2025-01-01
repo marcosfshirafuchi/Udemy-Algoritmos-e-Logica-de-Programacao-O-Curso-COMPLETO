@@ -15,12 +15,12 @@ Var
 Inicio
      escreva("Quantos valores vai ter cada vetor? ")
      leia(N)
+     escreval("Digite os valores do vetor A:  ")
      para i de 0 ate N-1 faca
-	        escreval("Digite os valores do vetor A:  ")
 	        leia(A[i])
      fimpara
+     escreval("Digite os valores do vetor B:  ")
      para i de 0 ate N-1 faca
-         escreval("Digite os valores do vetor B:  ")
 	      leia(B[i])
      fimpara
      escreval("VETOR RESULTANTE: ")
