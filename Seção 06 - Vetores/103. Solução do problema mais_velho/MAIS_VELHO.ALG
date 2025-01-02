@@ -26,8 +26,8 @@ Inicio
      maior <- 0
      posicao <- 0
      para i de 0 ate N-1 faca
-          se idade[i] > maior entao
-             maior <- idade[i]
+          se idades[i] > maior entao
+             maior <- idades[i]
              posicao <- i
           fimse
      fimpara
