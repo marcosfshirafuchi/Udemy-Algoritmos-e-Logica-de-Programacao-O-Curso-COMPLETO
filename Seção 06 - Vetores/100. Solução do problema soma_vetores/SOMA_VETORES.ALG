@@ -1,31 +1,35 @@
-Algoritmo "soma_vetores"
+Algoritmo "abaixo_da_media"
 // Disciplina  : O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 // Professor   : Nelio Alves
-// Descrição   : 100. Solução do problema soma_vetores
+// Descrição   : 101. Solução do problema abaixo_da_media
 // Autor       : Marcos Ferreira Shirafuchi
-// Data atual  : 01/01/2025
+// Data atual  : 02/01/2025
 
 Var
 
       N, i: inteiro
-      A, B, C : vetor[0..10] de inteiro
-
+      numeros : vetor[0..10] de real
+      media, soma : real
       
 
 Inicio
-     escreva("Quantos valores vai ter cada vetor? ")
+     escreva("Quantos elementos vai ter o vetor? ")
      leia(N)
-     escreval("Digite os valores do vetor A:  ")
      para i de 0 ate N-1 faca
-	        leia(A[i])
+           escreva("Digite um numero:  ")
+	        leia(numeros[i])
      fimpara
-     escreval("Digite os valores do vetor B:  ")
+     soma <- 0
      para i de 0 ate N-1 faca
-	      leia(B[i])
+          soma <- soma + numeros[i]
      fimpara
-     escreval("VETOR RESULTANTE: ")
+     media <- soma / N
+     escreval
+     escreval("MEDIA DO VETOR = ",media:5:3)
+     escreval("ELEMENTOS ABAIXO DA MEDIA: ")
      para i de 0 ate N-1 faca
-          C[i] <- A[i] + B[i]
-         escreval(C[i])
+         se numeros[i] < media entao
+         escreval(numeros[i]:5:1)
+         fimse
      fimpara
 Fimalgoritmo
