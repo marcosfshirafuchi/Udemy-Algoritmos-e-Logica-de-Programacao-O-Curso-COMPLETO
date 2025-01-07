@@ -8,7 +8,7 @@ Algoritmo "diagonal_negativos"
 Var
 
       M, contNegativo, i, j: inteiro
-      mat : vetor[0..99, 0..99] de inteiro
+      mat : vetor[0..9, 0..9] de inteiro
 
 
       
