@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736800270 source:c:\users\use\documents\algoritmos e lógica de programação - o curso completo\seção 09 - linguagem c\161. solução do problema soma_impares\soma_impares\main.c
+	<stdio.h>
+	<stdlib.h>
+
