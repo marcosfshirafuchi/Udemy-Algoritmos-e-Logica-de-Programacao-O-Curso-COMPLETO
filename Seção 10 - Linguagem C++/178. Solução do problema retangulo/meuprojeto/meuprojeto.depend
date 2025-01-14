@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736861813 source:c:\users\use\documents\algoritmos e lógica de programação - o curso completo\seção 10 - linguagem c++\178. solução do problema retangulo\meuprojeto\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
