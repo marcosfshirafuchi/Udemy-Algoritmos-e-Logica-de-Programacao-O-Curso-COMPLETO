@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736870069 source:c:\users\use\documents\algoritmos e lógica de programação - o curso completo\seção 10 - linguagem c++\183. solução do problema alturas\meuprojeto\main.cpp
+	<iostream>
+	<iomanip>
+	<climits>
+
