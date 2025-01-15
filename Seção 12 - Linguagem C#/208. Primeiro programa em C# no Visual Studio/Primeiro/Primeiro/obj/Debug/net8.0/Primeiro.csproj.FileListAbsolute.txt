@@ -1,0 +1,15 @@
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.exe
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.deps.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.runtimeconfig.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfo.cs
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.sourcelink.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\refint\Primeiro.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.genruntimeconfig.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\208. Primeiro programa em C# no Visual Studio\Primeiro\Primeiro\obj\Debug\net8.0\ref\Primeiro.dll
