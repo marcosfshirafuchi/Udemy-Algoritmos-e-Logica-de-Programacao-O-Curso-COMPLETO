@@ -1,0 +1,15 @@
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\bin\Debug\net8.0\Programa5.exe
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\bin\Debug\net8.0\Programa5.deps.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\bin\Debug\net8.0\Programa5.runtimeconfig.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\bin\Debug\net8.0\Programa5.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\bin\Debug\net8.0\Programa5.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.AssemblyInfoInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.AssemblyInfo.cs
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.csproj.CoreCompileInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.sourcelink.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\refint\Programa5.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\Programa5.genruntimeconfig.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa5\Programa5\obj\Debug\net8.0\ref\Programa5.dll

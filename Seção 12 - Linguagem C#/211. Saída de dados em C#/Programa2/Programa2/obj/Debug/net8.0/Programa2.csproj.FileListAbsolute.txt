@@ -1,0 +1,15 @@
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\bin\Debug\net8.0\Programa2.exe
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\bin\Debug\net8.0\Programa2.deps.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\bin\Debug\net8.0\Programa2.runtimeconfig.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\bin\Debug\net8.0\Programa2.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\bin\Debug\net8.0\Programa2.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.AssemblyInfoInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.AssemblyInfo.cs
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.sourcelink.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\refint\Programa2.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\Programa2.genruntimeconfig.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\211. Saída de dados em C#\Programa2\Programa2\obj\Debug\net8.0\ref\Programa2.dll
