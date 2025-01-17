@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\use\\Documents\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Se\u00E7\u00E3o 12 - Linguagem C#\\212. Processamento e casting em C#\\Programa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976FF6D3-DF0B-453F-8815-044908842A43}|Programa2\\Programa2.csproj|c:\\users\\use\\documents\\algoritmos e l\u00F3gica de programa\u00E7\u00E3o - o curso completo\\se\u00E7\u00E3o 12 - linguagem c#\\212. processamento e casting em c#\\programa2\\programa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976FF6D3-DF0B-453F-8815-044908842A43}|Programa2\\Programa2.csproj|solutionrelative:programa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\use\\Documents\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Se\u00E7\u00E3o 12 - Linguagem C#\\212. Processamento e casting em C#\\Programa2\\Programa2\\Program.cs",
+              "RelativeDocumentMoniker": "Programa2\\Program.cs",
+              "ToolTip": "C:\\Users\\use\\Documents\\Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o - O Curso COMPLETO\\Se\u00E7\u00E3o 12 - Linguagem C#\\212. Processamento e casting em C#\\Programa2\\Programa2\\Program.cs",
+              "RelativeToolTip": "Programa2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:32:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

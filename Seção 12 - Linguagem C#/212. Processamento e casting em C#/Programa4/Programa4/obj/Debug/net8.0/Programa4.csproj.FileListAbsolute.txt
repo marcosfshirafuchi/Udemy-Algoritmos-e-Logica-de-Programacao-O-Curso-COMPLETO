@@ -1,0 +1,15 @@
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\bin\Debug\net8.0\Programa4.exe
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\bin\Debug\net8.0\Programa4.deps.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\bin\Debug\net8.0\Programa4.runtimeconfig.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\bin\Debug\net8.0\Programa4.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\bin\Debug\net8.0\Programa4.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.AssemblyInfoInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.AssemblyInfo.cs
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.csproj.CoreCompileInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.sourcelink.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\refint\Programa4.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\Programa4.genruntimeconfig.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\212. Processamento e casting em C#\Programa4\Programa4\obj\Debug\net8.0\ref\Programa4.dll
