@@ -1,0 +1,15 @@
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\bin\Debug\net8.0\Programa.exe
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\bin\Debug\net8.0\Programa.deps.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\bin\Debug\net8.0\Programa.runtimeconfig.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\bin\Debug\net8.0\Programa.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\bin\Debug\net8.0\Programa.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfoInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfo.cs
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.sourcelink.json
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\refint\Programa.dll
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.pdb
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\Programa.genruntimeconfig.cache
+C:\Users\use\Documents\Algoritmos e Lógica de Programação - O Curso COMPLETO\Seção 12 - Linguagem C#\222. solução do problema soma_impares\Programa\Programa\obj\Debug\net8.0\ref\Programa.dll
